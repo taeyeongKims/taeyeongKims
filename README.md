@@ -12,11 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftae0u0&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&text=Welcome%20to%20tae0u0's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tae0u0&count_private=true&show_icons=true&theme=tokyonight&locale=kr)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xodud8530)](https://solved.ac/xodud8530/)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tae0u0&custom_title=tae0u0's%20Contribution%20Graph&hide_border=true&theme=vue)
